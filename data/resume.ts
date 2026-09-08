@@ -129,7 +129,7 @@ export const education = {
 };
 
 export const achievements = [
-  "Selected for the Sarvam AI Startup Program with a stealth startup — 10 of 353 applicants",
+  "Selected for the Sarvam AI Startup Program with a stealth startup",
   "670+ DSA problems solved across platforms",
   "5-star C++ on HackerRank",
   "Global rank 5681 in TCS CodeVita",
